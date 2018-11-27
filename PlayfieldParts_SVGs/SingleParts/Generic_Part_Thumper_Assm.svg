@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="3.2612693in"
-   height="4.6712694in"
+   width="2.7612693in"
+   height="4.1712694in"
    id="svg4155"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="181110_PartThumper_2.svg">
+   sodipodi:docname="Generic_Part_Thumper_Assm.svg">
   <metadata
      id="metadata4943">
     <rdf:RDF>
@@ -39,17 +39,17 @@
      id="namedview4941"
      showgrid="false"
      inkscape:zoom="1.1800298"
-     inkscape:cx="114.13083"
-     inkscape:cy="210.20695"
+     inkscape:cx="126.79955"
+     inkscape:cy="187.70682"
      inkscape:window-x="34"
      inkscape:window-y="63"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g4879"
+     inkscape:current-layer="layer1"
      units="in"
-     fit-margin-top="0.25"
-     fit-margin-left="0.25"
-     fit-margin-right="0.25"
-     fit-margin-bottom="0.25" />
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <desc
      id="desc4157">/Users/briancox/Documents/Win_Para_Share/VEL270/2018/181029_PlayfieldParts_2.dxf - scale = 25.400000, origin = (0.000000, 0.000000), auto = False</desc>
   <defs
@@ -102,13 +102,13 @@
      inkscape:label="Z0_TOPCOMP"
      id="g4223"
      style="display:inline"
-     transform="translate(-31263.243,46820.045)" />
+     transform="translate(-31285.743,46797.545)" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Z0_BOTCOMP"
      id="g4295"
      style="display:inline"
-     transform="translate(-31263.243,46820.045)">
+     transform="translate(-31285.743,46797.545)">
     <path
        d="m 31533.75,-46692.638 0,270"
        style="fill:none;stroke:#00ffff;stroke-linecap:round"
@@ -305,7 +305,7 @@
      inkscape:label="Z0_CUT500"
      id="g4879"
      style="display:inline"
-     transform="translate(-31263.243,46820.045)">
+     transform="translate(-31285.743,46797.545)">
     <path
        d="m 31523.4,-46557.638 a 113.4,113.4 0 1 0 -226.8,0 113.4,113.4 0 1 0 226.8,0 z"
        style="fill:none;stroke:#0000ff;stroke-linecap:round"
@@ -317,11 +317,16 @@
      inkscape:label="Z0_RUBBER"
      id="g4917"
      style="display:inline"
-     transform="translate(-31263.243,46820.045)" />
+     transform="translate(-31285.743,46797.545)" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Z0_CUT250"
      id="g4923"
      style="display:inline"
-     transform="translate(-31263.243,46820.045)" />
+     transform="translate(-31285.743,46797.545)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Z0_CENTROID"
+     transform="translate(-22.499879,-22.499879)" />
 </svg>

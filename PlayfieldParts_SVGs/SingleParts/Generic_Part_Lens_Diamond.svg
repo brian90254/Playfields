@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1.7239726in"
-   height="2.3244503in"
+   width="1.2239726in"
+   height="1.8244503in"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="181110_Generic_Part_Lens_Diamond_1.svg">
+   sodipodi:docname="Generic_Part_Lens_Diamond.svg">
   <metadata
      id="metadata1254">
     <rdf:RDF>
@@ -39,17 +39,17 @@
      id="namedview1252"
      showgrid="false"
      inkscape:zoom="1.781363"
-     inkscape:cx="90.85753"
-     inkscape:cy="82.224211"
+     inkscape:cx="-20.619518"
+     inkscape:cy="59.724452"
      inkscape:window-x="74"
      inkscape:window-y="31"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g84"
+     inkscape:current-layer="layer1"
      units="in"
-     fit-margin-top="0.25"
-     fit-margin-left="0.25"
-     fit-margin-right="0.25"
-     fit-margin-bottom="0.25" />
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <desc
      id="desc4">/Users/briancox/Documents/Win_Para_Share/VEL270/2018/181110_GenericParts_3.dxf - scale = 25.400000, origin = (0.000000, 0.000000), auto = False</desc>
   <defs
@@ -101,7 +101,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Z0_BOTCOMP"
      id="g84"
-     transform="translate(-32232.421,48632.608)">
+     transform="translate(-32254.921,48610.108)">
     <path
        d="m 32364.572,-48589.113 -47.194,142.699"
        style="fill:none;stroke:#00ffff;stroke-linecap:round"
@@ -147,12 +147,12 @@
      inkscape:groupmode="layer"
      inkscape:label="Z0_TOPCOMP"
      id="g944"
-     transform="translate(-32232.421,48632.608)" />
+     transform="translate(-32254.921,48610.108)" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Z0_CUT250"
      id="g1098"
-     transform="translate(-32232.421,48632.608)">
+     transform="translate(-32254.921,48610.108)">
     <path
        d="m 32276.831,-48524.403 22.275,67.323"
        style="fill:none;stroke:#00ff00;stroke-linecap:round"
@@ -198,7 +198,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Z0_CUT500"
      id="g1116"
-     transform="translate(-32232.421,48632.608)">
+     transform="translate(-32254.921,48610.108)">
     <path
        d="m 32282.385,-48529.775 a 5.624999,5.624999 0 0 0 0,3.534"
        style="fill:none;stroke:#0000ff;stroke-linecap:round"
@@ -244,25 +244,30 @@
      inkscape:groupmode="layer"
      inkscape:label="Z0_PLASTICS"
      id="g1190"
-     transform="translate(-32232.421,48632.608)" />
+     transform="translate(-32254.921,48610.108)" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Z0_RUBBER"
      id="g1212"
-     transform="translate(-32232.421,48632.608)" />
+     transform="translate(-32254.921,48610.108)" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Z0_ZONES"
      id="g1246"
-     transform="translate(-32232.421,48632.608)" />
+     transform="translate(-32254.921,48610.108)" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Z0_WOODOUTLINE"
      id="g1248"
-     transform="translate(-32232.421,48632.608)" />
+     transform="translate(-32254.921,48610.108)" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Z0_LOWERTHIRD"
      id="g1250"
-     transform="translate(-32232.421,48632.608)" />
+     transform="translate(-32254.921,48610.108)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Z0_CENTROID"
+     transform="translate(-22.500236,-22.500236)" />
 </svg>

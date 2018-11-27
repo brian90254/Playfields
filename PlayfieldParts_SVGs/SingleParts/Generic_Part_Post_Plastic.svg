@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1.3111111in"
-   height="1.3111107in"
+   width="0.81111109in"
+   height="0.81111073in"
    id="svg4155"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="181101_PlasticsPost_1.svg">
+   sodipodi:docname="Generic_Part_Post_Plastic.svg">
   <metadata
      id="metadata4943">
     <rdf:RDF>
@@ -39,17 +39,17 @@
      id="namedview4941"
      showgrid="false"
      inkscape:zoom="2.7415297"
-     inkscape:cx="32.538579"
-     inkscape:cy="16.886999"
+     inkscape:cx="-47.775859"
+     inkscape:cy="-5.6129828"
      inkscape:window-x="85"
      inkscape:window-y="71"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g4879"
+     inkscape:current-layer="layer1"
      units="in"
-     fit-margin-top="0.25"
-     fit-margin-left="0.25"
-     fit-margin-right="0.25"
-     fit-margin-bottom="0.25" />
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <desc
      id="desc4157">/Users/briancox/Documents/Win_Para_Share/VEL270/2018/181029_PlayfieldParts_2.dxf - scale = 25.400000, origin = (0.000000, 0.000000), auto = False</desc>
   <defs
@@ -102,7 +102,7 @@
      inkscape:label="Z0_TOPCOMP"
      id="g4223"
      style="display:inline"
-     transform="translate(-30901,46796.638)">
+     transform="translate(-30923.5,46774.138)">
     <path
        d="m 30991.5,-46737.638 a 31.5,31.5 0 1 0 -63,0 31.5,31.5 0 1 0 63,0 z"
        style="fill:none;stroke:#ff00ff;stroke-linecap:round"
@@ -114,7 +114,7 @@
      inkscape:label="Z0_BOTCOMP"
      id="g4295"
      style="display:inline"
-     transform="translate(-30901,46796.638)">
+     transform="translate(-30923.5,46774.138)">
     <path
        d="m 30960,-46763.288 a 25.65,25.65 0 0 0 -24.725,18.825"
        style="fill:none;stroke:#00ffff;stroke-linecap:round"
@@ -176,7 +176,7 @@
      inkscape:label="Z0_CUT500"
      id="g4879"
      style="display:inline"
-     transform="translate(-30901,46796.638)">
+     transform="translate(-30923.5,46774.138)">
     <path
        d="m 30967.425,-46737.638 a 7.425,7.425 0 1 0 -14.85,0 7.425,7.425 0 1 0 14.85,0 z"
        style="fill:none;stroke:#0000ff;stroke-linecap:round"
@@ -188,7 +188,7 @@
      inkscape:label="Z0_RUBBER"
      id="g4917"
      style="display:inline"
-     transform="translate(-30901,46796.638)">
+     transform="translate(-30923.5,46774.138)">
     <path
        d="m 30996,-46737.638 a 36,36 0 1 0 -72,0 36,36 0 1 0 72,0 z"
        style="fill:none;stroke:#ffff00;stroke-linecap:round"
@@ -205,5 +205,10 @@
      inkscape:label="Z0_CUT250"
      id="g4923"
      style="display:inline"
-     transform="translate(-30901,46796.638)" />
+     transform="translate(-30923.5,46774.138)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Z0_CENTROID"
+     transform="translate(-22.5,-22.500016)" />
 </svg>
